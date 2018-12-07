@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "F:\\Android\\sanzijing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_stop.png.flat",
+        "source": "F:\\Android\\sanzijing1\\app\\src\\main\\res\\drawable\\ic_stop.png"
+    },
+    {
+        "merged": "F:\\Android\\sanzijing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_ret.png.flat",
+        "source": "F:\\Android\\sanzijing1\\app\\src\\main\\res\\drawable\\ic_ret.png"
+    },
+    {
+        "merged": "F:\\Android\\sanzijing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_voice.png.flat",
+        "source": "F:\\Android\\sanzijing1\\app\\src\\main\\res\\drawable\\ic_voice.png"
+    },
+    {
+        "merged": "F:\\Android\\sanzijing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_yiwen.png.flat",
+        "source": "F:\\Android\\sanzijing1\\app\\src\\main\\res\\drawable\\btn_yiwen.png"
+    },
+    {
+        "merged": "F:\\Android\\sanzijing1\\app\\build\\intermediates\\res\\merged\\debug\\layout_favor_row.xml.flat",
+        "source": "F:\\Android\\sanzijing1\\app\\src\\main\\res\\layout\\favor_row.xml"
+    },
+    {
+        "merged": "F:\\Android\\sanzijing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_icon.png.flat",
+        "source": "F:\\Android\\sanzijing1\\app\\src\\main\\res\\drawable\\ic_icon.png"
+    },
+    {
+        "merged": "F:\\Android\\sanzijing1\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "F:\\Android\\sanzijing1\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "F:\\Android\\sanzijing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_zhushi.png.flat",
+        "source": "F:\\Android\\sanzijing1\\app\\src\\main\\res\\drawable\\btn_zhushi.png"
+    },
+    {
+        "merged": "F:\\Android\\sanzijing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_favor_add.png.flat",
+        "source": "F:\\Android\\sanzijing1\\app\\src\\main\\res\\drawable\\ic_favor_add.png"
+    },
+    {
+        "merged": "F:\\Android\\sanzijing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_info.png.flat",
+        "source": "F:\\Android\\sanzijing1\\app\\src\\main\\res\\drawable\\ic_info.png"
+    },
+    {
+        "merged": "F:\\Android\\sanzijing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "F:\\Android\\sanzijing1\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "F:\\Android\\sanzijing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search.png.flat",
+        "source": "F:\\Android\\sanzijing1\\app\\src\\main\\res\\drawable\\ic_search.png"
+    },
+    {
+        "merged": "F:\\Android\\sanzijing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_favor_go.png.flat",
+        "source": "F:\\Android\\sanzijing1\\app\\src\\main\\res\\drawable\\ic_favor_go.png"
+    },
+    {
+        "merged": "F:\\Android\\sanzijing1\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_favor.xml.flat",
+        "source": "F:\\Android\\sanzijing1\\app\\src\\main\\res\\menu\\menu_favor.xml"
+    },
+    {
+        "merged": "F:\\Android\\sanzijing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_cover.jpg.flat",
+        "source": "F:\\Android\\sanzijing1\\app\\src\\main\\res\\drawable\\image_cover.jpg"
+    },
+    {
+        "merged": "F:\\Android\\sanzijing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_qishi.png.flat",
+        "source": "F:\\Android\\sanzijing1\\app\\src\\main\\res\\drawable\\btn_qishi.png"
+    },
+    {
+        "merged": "F:\\Android\\sanzijing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg.jpg.flat",
+        "source": "F:\\Android\\sanzijing1\\app\\src\\main\\res\\drawable\\bg.jpg"
+    },
+    {
+        "merged": "F:\\Android\\sanzijing1\\app\\build\\intermediates\\res\\merged\\debug\\layout_book_cover.xml.flat",
+        "source": "F:\\Android\\sanzijing1\\app\\src\\main\\res\\layout\\book_cover.xml"
+    },
+    {
+        "merged": "F:\\Android\\sanzijing1\\app\\build\\intermediates\\res\\merged\\debug\\xml_searchable.xml.flat",
+        "source": "F:\\Android\\sanzijing1\\app\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "F:\\Android\\sanzijing1\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_page.xml.flat",
+        "source": "F:\\Android\\sanzijing1\\app\\src\\main\\res\\layout\\main_page.xml"
+    },
+    {
+        "merged": "F:\\Android\\sanzijing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_quit.png.flat",
+        "source": "F:\\Android\\sanzijing1\\app\\src\\main\\res\\drawable\\ic_quit.png"
+    },
+    {
+        "merged": "F:\\Android\\sanzijing1\\app\\build\\intermediates\\res\\merged\\debug\\raw_szj.mp3.flat",
+        "source": "F:\\Android\\sanzijing1\\app\\src\\main\\res\\raw\\szj.mp3"
+    },
+    {
+        "merged": "F:\\Android\\sanzijing1\\app\\build\\intermediates\\res\\merged\\debug\\layout_favor_list.xml.flat",
+        "source": "F:\\Android\\sanzijing1\\app\\src\\main\\res\\layout\\favor_list.xml"
+    }
+]

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" 
+	android:id="@+id/SCROLL_VIEW"
+    android:layout_width="fill_parent" 
+    android:layout_height="fill_parent" 
+    android:background="@drawable/bg"
+	android:scrollbars="vertical" 
+	android:fadingEdge="vertical">	
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"    
+    >
+<TextView  
+    android:id="@+id/YUAN_WEN"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:textSize="30sp"
+	android:textColor="@drawable/magenta"
+	android:layout_marginTop="5px"
+	android:padding="5px"
+	android:layout_marginBottom="-15px" android:gravity="center"/>
+	/>
+<TextView  
+    android:id="@+id/PIN_YIN"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:textSize="18sp"
+    android:textColor="@drawable/magenta"
+	android:gravity="left"
+	android:padding="5px"	
+	android:layout_marginTop="-15px"
+	android:layout_marginBottom="10px"
+	android:lineSpacingMultiplier="1.2"/>
+	
+<ImageView  
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" 
+    android:src="@drawable/btn_yiwen"
+	android:gravity="left"
+	android:padding="5px"
+	/>
+<TextView  
+    android:id="@+id/YI_WEN" 
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:textSize="15sp"
+    android:textColor="@drawable/magenta"
+	android:gravity="left"
+	android:layout_marginTop="5px"
+	android:layout_marginBottom="10px"
+	android:padding="5px"
+	android:lineSpacingMultiplier="1.2"/>
+<ImageView 
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" 
+    android:src="@drawable/btn_qishi"
+	android:gravity="left"
+	android:padding="5px"
+	/>
+<TextView  
+    android:id="@+id/QI_SHI" 
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:textSize="15sp"
+    android:textColor="@drawable/magenta"
+	android:gravity="left"
+	android:layout_marginTop="5px"
+	android:layout_marginBottom="10px"
+	android:padding="5px"
+	android:lineSpacingMultiplier="1.2"/>	
+<ImageView 
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content"
+    android:src="@drawable/btn_zhushi" 
+	android:gravity="left"
+	android:padding="5px"
+	/>
+<TextView
+    android:id="@+id/ZHU_SHI"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:textSize="15sp"
+    android:textColor="@drawable/magenta"
+	android:gravity="left"
+	android:layout_marginTop="5px"
+	android:layout_marginBottom="10px"
+	android:padding="5px"
+	/>
+</LinearLayout>
+</ScrollView>

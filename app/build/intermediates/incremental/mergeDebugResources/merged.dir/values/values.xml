@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="black">#000000</drawable>
+    <drawable name="blue">#00ffff</drawable>
+    <drawable name="cyan">#0fffff</drawable>
+    <drawable name="darkgray">#404040ff</drawable>
+    <drawable name="gray">#8080ff</drawable>
+    <drawable name="green">#0ff0ff</drawable>
+    <drawable name="lightgray">#c0c0c0ff</drawable>
+    <drawable name="lightred">#f2c0dd</drawable>
+    <drawable name="magenta">#176395</drawable>
+    <drawable name="white">#ffffffff</drawable>
+    <drawable name="yellow">#fff0ff</drawable>
+    <string name="app_info">熙熙电子书之三字经版本1.0</string>
+    <string name="app_info_msg">　　程序：熙熙爸爸;  美工：熙熙妈妈。特别为我们可爱的熙熙宝宝设计制作！\n\n Copyright @ flether.com</string>
+    <string name="app_name">三字经</string>
+    <string name="book_desc">\n　　《三字经》是我国历史上最著名、最流行的儿童启蒙读物。它共一千多字，内容广博，言简意赅，形式通俗，三字一句，对仗押韵，易学易懂，被誉为古今奇书，至今仍广泛流传。\n\n　　《三字经》内容分为六部分，每一部分有一个中心。《三字经》作为优秀儿童读物已被联合国科教文组织向全世界推荐。《三字经》相传为南宋王应麟所作，亦传为宋末区适子所作。 </string>
+    <string name="label_qi_shi">【启示】</string>
+    <string name="label_yi_wen">【译文】</string>
+    <string name="label_zhu_shi">【注释】</string>
+    <string name="menu_cancel">取消</string>
+    <string name="menu_detail">显示该收藏</string>
+    <string name="menu_favor_add">收藏</string>
+    <string name="menu_favor_go">查看收藏</string>
+    <string name="menu_info">关于</string>
+    <string name="menu_quit">退出</string>
+    <string name="menu_remove">移除该收藏</string>
+    <string name="menu_ret">返回</string>
+    <string name="menu_serach">搜索</string>
+    <string name="menu_voice">朗读</string>
+    <string name="searchHint">搜索三字经</string>
+    <string name="searchLabel">三字经</string>
+    <string name="str_ok">确定</string>
+</resources>

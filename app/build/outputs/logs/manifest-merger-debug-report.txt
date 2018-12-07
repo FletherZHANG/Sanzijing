@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:3:7-46
+		INJECTED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:5:7-32
+		INJECTED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml
+application
+ADDED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:6:5-30:19
+	android:label
+		ADDED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:6:18-50
+	android:icon
+		ADDED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:6:51-83
+activity#com.flether.android.sanzijing.BookCover
+ADDED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:7:10-12:20
+	android:screenOrientation
+		ADDED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:7:46-82
+	android:name
+		ADDED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:7:20-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:8:11-11:29
+action#android.intent.action.MAIN
+ADDED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:9:17-69
+	android:name
+		ADDED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:9:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:10:17-77
+	android:name
+		ADDED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:10:27-74
+activity#com.flether.android.sanzijing.MainPage
+ADDED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:15:9-82
+	android:screenOrientation
+		ADDED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:15:44-80
+	android:name
+		ADDED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:15:19-43
+activity#com.flether.android.sanzijing.FavorList
+ADDED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:screenOrientation
+		ADDED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:16:45-81
+	android:name
+		ADDED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:16:19-44
+intent-filter#action:name:android.intent.action.SEARCH
+ADDED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:17:15-19:28
+action#android.intent.action.SEARCH
+ADDED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:18:14-68
+	android:name
+		ADDED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:18:22-65
+meta-data#android.app.searchable
+ADDED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:20:17-21:61
+	android:resource
+		ADDED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:21:25-59
+	android:name
+		ADDED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:20:28-65
+activity#com.flether.android.sanzijing.FavorDetail
+ADDED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:23:9-85
+	android:screenOrientation
+		ADDED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:23:47-83
+	android:name
+		ADDED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:23:19-46
+meta-data#android.app.default_searchable
+ADDED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:26:9-27:48
+	android:value
+		ADDED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:27:20-46
+	android:name
+		ADDED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml:26:20-65
+uses-sdk
+INJECTED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml
+INJECTED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml
+INJECTED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml
+INJECTED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml
+		ADDED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml
+		ADDED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android\sanzijing1\app\src\main\AndroidManifest.xml
